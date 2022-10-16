@@ -2,7 +2,7 @@
 
 ## Description 
 
-The current project's aim is to use JavaScript to create a random password generator that forfills specific criteria for the user.
+The current project's aim is to use JavaScript to create a random password generator that forfills specific criteria for the user:
 
 ## Acceptance Criteria
 
@@ -37,5 +37,6 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Deployed link 
 
+https://charl1410.github.io/week-3-passwordGenerator/
 
 
