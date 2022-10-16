@@ -26,6 +26,8 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Screenshots 
 
+[Untitled_ Oct 16, 2022 4_53 PM (1).webm](https://user-images.githubusercontent.com/112945634/196046143-a83159cd-2fa6-4eb1-904e-60543d701af4.webm)
+
 ## Deployed link 
 
 
